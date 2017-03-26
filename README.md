@@ -1,6 +1,6 @@
 # MoneroManager - Version 1.0.0.1
 
-Use this Windows program to safely view the balance of your Monero wallet. You must be running the Monero daemon with a fully syncronized blockchain on the same computer in order for this application to do its thing. Future versions of this program may support the use of a remote blockchain.
+Use this Windows program to safely view the balance of your Monero wallet. You must be running the Monero daemon with a fully syncronized blockchain on the same computer. Future versions of this program may support the use of a remote blockchain.
 
 ## Binary
 [Zip with Windows 32 bit .exe](https://github.com/cryptocomicon/MoneroManager/blob/master/Versions/MoneroManager.1.0.0.1.zip)
@@ -9,7 +9,7 @@ SHA256 Hash = 87d271a7999a6f19d8ee70095a9cd0375c776af09de8948b15914a0429cb10d6
 
 
 ### Installation
-1) Save the zip to your Windows comptuter
+1) Save the zip to your Windows computer
 2) Unzip the .exe to any location on your computer
 3) Run the .exe 
 
