@@ -24,7 +24,7 @@ and then shuts down the wallet exe.
 ### Screenshots
 [Main Dialog](https://github.com/cryptocomicon/MoneroManager/blob/master/Doc/MainDlg.png)
 
-[Dial](https://github.com/cryptocomicon/MoneroManager/blob/master/Doc/Dial.png)
+[Dial](https://github.com/cryptocomicon/MoneroManager/blob/master/Doc/DataEntry.png)
 
 #### Dial accelerator keys
  - Left Shift Key Down = only lower case letters
